@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Ensure logo keeps original colors */
+.filter-none {
+  filter: none !important;
+}
