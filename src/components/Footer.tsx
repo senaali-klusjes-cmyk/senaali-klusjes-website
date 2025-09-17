@@ -82,22 +82,20 @@ const Footer = () => {
               <h5 className="text-sm font-semibold text-gray-400 mb-3">Volg Ons</h5>
               <div className="flex space-x-3">
                 <a
-                  href="#"
+                  href="https://www.facebook.com/profile.php?id=100091754747862"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="w-8 h-8 bg-gray-800 rounded-full flex items-center justify-center hover:bg-amber-600 transition-colors"
                 >
                   <Facebook className="w-4 h-4" />
                 </a>
                 <a
-                  href="#"
+                  href="https://www.instagram.com/senaali.klusjes/"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="w-8 h-8 bg-gray-800 rounded-full flex items-center justify-center hover:bg-amber-600 transition-colors"
                 >
                   <Instagram className="w-4 h-4" />
-                </a>
-                <a
-                  href="#"
-                  className="w-8 h-8 bg-gray-800 rounded-full flex items-center justify-center hover:bg-amber-600 transition-colors"
-                >
-                  <Linkedin className="w-4 h-4" />
                 </a>
               </div>
             </div>

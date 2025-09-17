@@ -5,7 +5,7 @@ import { CheckCircle } from 'lucide-react';
 const Hero = () => {
   const features = [
     { icon: <CheckCircle className="w-5 h-5" />, text: '+30 jaar ervaring' },
-    { icon: <CheckCircle className="w-5 h-5" />, text: 'Gratis offerte binnen 24u' },
+    { icon: <CheckCircle className="w-5 h-5" />, text: 'Gratis een snelle offerte' },
   ];
 
   return (

@@ -58,7 +58,7 @@ const AboutPage = () => (
           <div className="space-y-4">
             <h3 className="text-xl font-semibold text-amber-400">Welkom bij Senaali Klussen</h3>
             <p className="text-gray-300 leading-relaxed">
-              Al 32 jaar sta ik klaar om elke klus met zorg en precisie uit te voeren. De naam Senaali is ontstaan uit de namen van mijn kinderen, Sedika, Naz en Ali en staat symbool voor de toewijding en liefde die ik in mijn werk leg.
+              Al meer dan 30 jaar sta ik klaar om elke klus met zorg en precisie uit te voeren. De naam Senaali is ontstaan uit de namen van mijn kinderen, Sedika, Naz en Ali en staat symbool voor de toewijding en liefde die ik in mijn werk leg.
             </p>
             <p className="text-gray-300 leading-relaxed">
               Of het nu gaat om tuinonderhoud, schilderwerken, ramen wassen of andere klussen: ik pak het aan met vakmanschap en een glimlach.

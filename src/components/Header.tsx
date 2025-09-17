@@ -40,7 +40,7 @@ const Header = () => {
                 <span>Admin ingelogd</span>
               </span>
             ) : (
-              <span>Gratis offerte binnen 24 uur!</span>
+              <span>Gratis een snelle offerte!</span>
             )}
           </div>
         </div>

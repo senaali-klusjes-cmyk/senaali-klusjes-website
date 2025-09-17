@@ -128,15 +128,6 @@ const Login = () => {
               </button>
             </form>
 
-            <div className="mt-6 text-center">
-              <a
-                href="#"
-                className="text-sm text-amber-600 hover:text-amber-700 font-medium transition-colors"
-              >
-                Wachtwoord vergeten?
-              </a>
-            </div>
-
             <div className="mt-6 pt-6 border-t border-gray-200">
               <p className="text-xs text-gray-500 text-center">
                 Deze pagina is alleen toegankelijk voor de eigenaar van Senaali Klusjes.
