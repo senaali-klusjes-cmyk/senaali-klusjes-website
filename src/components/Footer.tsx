@@ -55,7 +55,7 @@ const Footer = () => {
               <div className="flex items-start space-x-3">
                 <Mail className="w-5 h-5 text-amber-400 flex-shrink-0 mt-0.5" />
                 <div>
-                  <p className="text-gray-300">info@senaaliklusjes.nl</p>
+                  <p className="text-gray-300">senaalikemaldar@gmail.com</p>
                   <p className="text-gray-500 text-sm">Respons binnen 4 uur</p>
                 </div>
               </div>
